@@ -1,0 +1,130 @@
+{
+  "Pepper__bell___Bacterial_spot": {
+    "solution": "Remove infected leaves and avoid overhead watering. Apply copper-based bactericides weekly during humid conditions.",
+    "characteristics": {
+      "color": "yellow to brown",
+      "spots": "small water-soaked spots turning dark brown or black",
+      "texture": "rough and raised patches on the leaf surface"
+    }
+  },
+  "Pepper__bell___healthy": {
+    "solution": "Your plant is healthy. Maintain consistent watering, provide full sunlight, and avoid leaf wetness for long periods.",
+    "characteristics": {
+      "color": "uniform bright green",
+      "spots": "none",
+      "texture": "smooth and firm"
+    }
+  },
+  "Potato___Early_blight": {
+    "solution": "Remove infected foliage, use disease-free tubers, and spray fungicides like mancozeb or chlorothalonil.",
+    "characteristics": {
+      "color": "yellowing starting at leaf edges",
+      "spots": "brown concentric rings resembling a target pattern",
+      "texture": "dry and brittle"
+    }
+  },
+  "Potato___healthy": {
+    "solution": "Your potato crop is healthy. Continue irrigation and balanced fertilization. Monitor for pests regularly.",
+    "characteristics": {
+      "color": "dark green",
+      "spots": "none",
+      "texture": "smooth"
+    }
+  },
+  "Potato___Late_blight": {
+    "solution": "Destroy infected plants, use copper fungicides, and ensure proper field drainage. Avoid planting during very humid weather.",
+    "characteristics": {
+      "color": "greyish-green turning brown",
+      "spots": "irregular water-soaked lesions often at edges",
+      "texture": "soft and rotting"
+    }
+  },
+  "Tomato__Target_Spot": {
+    "solution": "Remove infected leaves, improve air circulation, and apply fungicides like chlorothalonil or mancozeb.",
+    "characteristics": {
+      "color": "yellow-green",
+      "spots": "small dark brown concentric rings (bullseye-like)",
+      "texture": "dry circular patches"
+    }
+  },
+  "Tomato__Tomato_mosaic_virus": {
+    "solution": "Remove infected plants immediately. Disinfect tools and avoid handling plants when wet. Use resistant tomato varieties.",
+    "characteristics": {
+      "color": "mottled light and dark green areas",
+      "spots": "mosaic-like pattern on leaf surface",
+      "texture": "distorted or curled leaves"
+    }
+  },
+  "Tomato__Tomato_YellowLeaf__Curl_Virus": {
+    "solution": "Control whiteflies (the main carriers) using neem oil or sticky traps. Remove infected plants and use virus-resistant varieties.",
+    "characteristics": {
+      "color": "yellowed leaf margins",
+      "spots": "none, but leaf curling upwards is seen",
+      "texture": "thickened and crumpled"
+    }
+  },
+  "Tomato_Bacterial_spot": {
+    "solution": "Avoid overhead irrigation, remove infected leaves, and use copper-based sprays weekly. Ensure good plant spacing.",
+    "characteristics": {
+      "color": "brown to black",
+      "spots": "small circular lesions with yellow halos",
+      "texture": "rough leaf surface around the spots"
+    }
+  },
+  "Tomato_Early_blight": {
+    "solution": "Prune lower leaves, rotate crops, and use fungicides containing azoxystrobin or chlorothalonil.",
+    "characteristics": {
+      "color": "yellowing starting from lower leaves",
+      "spots": "dark brown circular spots with target-like rings",
+      "texture": "dry and fragile areas"
+    }
+  },
+  "Tomato_healthy": {
+    "solution": "Your tomato plant is healthy. Continue watering regularly and provide fertilizer rich in potassium and calcium.",
+    "characteristics": {
+      "color": "dark green",
+      "spots": "none",
+      "texture": "smooth and glossy"
+    }
+  },
+  "Tomato_Late_blight": {
+    "solution": "Use copper-based fungicides and avoid wet leaves. Destroy infected debris and avoid watering at night.",
+    "characteristics": {
+      "color": "gray-green turning brownish-black",
+      "spots": "irregular water-soaked patches with white mold underneath",
+      "texture": "soft and wet"
+    }
+  },
+  "Tomato_Leaf_Mold": {
+    "solution": "Increase air circulation and apply fungicides such as copper oxychloride. Avoid high humidity and wet leaves.",
+    "characteristics": {
+      "color": "yellowish upper leaf surface",
+      "spots": "grayish-purple mold on the underside",
+      "texture": "soft with fuzzy growth"
+    }
+  },
+  "Tomato_Septoria_leaf_spot": {
+    "solution": "Remove infected leaves and apply fungicides containing chlorothalonil or copper. Avoid watering foliage directly.",
+    "characteristics": {
+      "color": "yellowish-green",
+      "spots": "small circular spots with dark borders and light centers",
+      "texture": "thin and dry"
+    }
+  },
+  "Tomato_Spider_mites_Two_spotted_spider_mite": {
+    "solution": "Spray water on undersides of leaves to remove mites. Use neem oil or insecticidal soap. Maintain humidity.",
+    "characteristics": {
+      "color": "yellow speckled",
+      "spots": "tiny white or yellow dots across leaves",
+      "texture": "dry and web-covered"
+    }
+  },
+  "Unknown": {
+    "solution": "The disease could not be identified. Please consult a local agricultural extension service for further diagnosis.",
+    "characteristics": {
+      "color": "varies",
+      "spots": "varies",
+      "texture": "varies"
+    }
+  }
+}
